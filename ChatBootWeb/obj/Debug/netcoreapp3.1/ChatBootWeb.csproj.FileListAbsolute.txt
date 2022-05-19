@@ -1,0 +1,427 @@
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ChatBootWeb.exe
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ChatBootWeb.deps.json
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ChatBootWeb.runtimeconfig.json
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ChatBootWeb.runtimeconfig.dev.json
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ChatBootWeb.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ChatBootWeb.pdb
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ChatBootWeb.Views.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ChatBootWeb.Views.pdb
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.csproj.AssemblyReference.cache
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.AssemblyInfoInputs.cache
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.AssemblyInfo.cs
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.csproj.CoreCompileInputs.cache
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.RazorAssemblyInfo.cache
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.RazorAssemblyInfo.cs
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\staticwebassets\ChatBootWeb.StaticWebAssets.Manifest.cache
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\staticwebassets\ChatBootWeb.StaticWebAssets.xml
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\scopedcss\bundle\ChatBootWeb.styles.css
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.TagHelpers.input.cache
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.TagHelpers.output.cache
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.RazorCoreGenerate.cache
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.RazorTargetAssemblyInfo.cache
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.RazorTargetAssemblyInfo.cs
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.Views.pdb
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.csproj.CopyComplete
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.pdb
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.genruntimeconfig.cache
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\RespostaChats\Index.cshtml.g.cs
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\RespostaChats\Details.cshtml.g.cs
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\RespostaChats\Create.cshtml.g.cs
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\RespostaChats\Edit.cshtml.g.cs
+D:\Projetos Relinton\AspNetCore\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\RespostaChats\Delete.cshtml.g.cs
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ChatBootWeb.exe
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ChatBootWeb.deps.json
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ChatBootWeb.runtimeconfig.json
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ChatBootWeb.runtimeconfig.dev.json
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ChatBootWeb.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ChatBootWeb.pdb
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ChatBootWeb.Views.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ChatBootWeb.Views.pdb
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.csproj.AssemblyReference.cache
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.AssemblyInfoInputs.cache
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.AssemblyInfo.cs
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.csproj.CoreCompileInputs.cache
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.RazorAssemblyInfo.cache
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.RazorAssemblyInfo.cs
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\staticwebassets\ChatBootWeb.StaticWebAssets.Manifest.cache
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\staticwebassets\ChatBootWeb.StaticWebAssets.xml
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\scopedcss\bundle\ChatBootWeb.styles.css
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.TagHelpers.input.cache
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.TagHelpers.output.cache
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.RazorCoreGenerate.cache
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\RespostaChats\Create.cshtml.g.cs
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\RespostaChats\Delete.cshtml.g.cs
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\RespostaChats\Details.cshtml.g.cs
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\RespostaChats\Edit.cshtml.g.cs
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\RespostaChats\Index.cshtml.g.cs
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.RazorTargetAssemblyInfo.cache
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.RazorTargetAssemblyInfo.cs
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.Views.pdb
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.csproj.CopyComplete
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.dll
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.pdb
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.genruntimeconfig.cache
+D:\Relinton Sistemas\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\appsettings.json
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ChatBootWeb.exe
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ChatBootWeb.deps.json
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ChatBootWeb.runtimeconfig.json
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ChatBootWeb.runtimeconfig.dev.json
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ChatBootWeb.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ChatBootWeb.pdb
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ChatBootWeb.Views.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ChatBootWeb.Views.pdb
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\EntityFramework.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\ChatBootWeb\ChatBootWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.csproj.AssemblyReference.cache
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.GeneratedMSBuildEditorConfig.editorconfig
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.AssemblyInfoInputs.cache
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.AssemblyInfo.cs
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.csproj.CoreCompileInputs.cache
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.MvcApplicationPartsAssemblyInfo.cache
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.RazorAssemblyInfo.cache
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.RazorAssemblyInfo.cs
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\staticwebassets\ChatBootWeb.StaticWebAssets.Manifest.cache
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\staticwebassets\ChatBootWeb.StaticWebAssets.xml
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\scopedcss\bundle\ChatBootWeb.styles.css
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.TagHelpers.input.cache
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.TagHelpers.output.cache
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.RazorCoreGenerate.cache
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\RespostaChats\Create.cshtml.g.cs
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\RespostaChats\Delete.cshtml.g.cs
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\RespostaChats\Details.cshtml.g.cs
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\RespostaChats\Edit.cshtml.g.cs
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\RespostaChats\Index.cshtml.g.cs
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.RazorTargetAssemblyInfo.cache
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.RazorTargetAssemblyInfo.cs
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.Views.pdb
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.csproj.CopyComplete
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.dll
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.pdb
+G:\ChatBootWeb\ChatBootWeb\obj\Debug\netcoreapp3.1\ChatBootWeb.genruntimeconfig.cache

@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container-fluid">
+
+    <div class="col-12 bg-dark" style="height:400px;">
+    </div>
+
+    <div id="divchat" class="col-12 float-right">
+        <div class="col-12">
+            <h2 class=text-black-50>Chat Psicólogo Virtual</h2>
+        </div>
+
+        <div class="col-12">
+            <textarea class="textarea" id="displaymensagem" disabled></textarea>
+        </div>
+
+        <div class="col-12">
+            <div class="col-12">
+                <label class="col-form-label text-black-50"> <b>Mensagem :</b></label>
+                <input type="text" id="mensagem" class="input" />
+            </div>
+
+            <div class="col-12">
+                <button type="button" id="Enviar" class="btn btn-secondary btn-lg">Enviar</button>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+@section Scripts {
+    <link href="~/css/StyleSheet.css" rel="stylesheet" />
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/js/JavaScript.js"></script>
+}
