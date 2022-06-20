@@ -8,7 +8,6 @@ Chatbot é um programa de computador que tenta simular um ser humano na conversa
 
 ## Layout web
 ![chatbot](https://user-images.githubusercontent.com/32855779/174649101-51138c34-8ce6-4b49-bbc2-fa331e469285.png)
-![chatbot](https://github.com/Relinton/ChatBootWeb/issues/1)
 
 # Tecnologias utilizadas
 ## Front end
