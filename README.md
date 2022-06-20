@@ -1,4 +1,4 @@
-# Asp Net Core Cokies
+# Chatbot no Asp Net Core
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Relinton/AspNetCorePaginacaoDataTable/blob/main/LICENSE) 
 
 # Sobre o projeto
